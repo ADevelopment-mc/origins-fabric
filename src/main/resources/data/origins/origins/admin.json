@@ -1,0 +1,26 @@
+{
+  "name": "Admin",
+  "description": "Comes from the far lands of Admin land, where you will be born (if you choose this of course)",
+  "powers": [
+    "origins:elytra",
+    "origins:conduit_power_on_land",
+    "origins:ender_particles",
+    "origins:extra_reach",
+    "origins:fall_immunity",
+    "origins:fire_immunity",
+    "origins:phantomize",
+    "origins:phasing",
+    "origins:natural_armor",
+    "origins:scare_creepers",
+    "origins:slow_falling",
+    "origins:strong_arms",
+    "origins:swim_speed",
+    "origins:tailwind",
+    "origins:throw_ender_pearl",
+    "origins:translucent",
+    "origins:water_vision"
+  ],
+  "icon": "minecraft:command_block",
+  "order": 1,
+  "impact": 3
+}
